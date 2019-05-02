@@ -31,6 +31,10 @@
 # Executables
 *.exe
 *.out
+<<<<<<< HEAD
+=======
+*.app
+>>>>>>> e5b3964f9011f274521c729f1afd9f7c984dad9c
 *.i*86
 *.x86_64
 *.hex
@@ -40,8 +44,11 @@
 *.su
 *.idb
 *.pdb
+<<<<<<< HEAD
 *.log
 *.bak
+=======
+>>>>>>> e5b3964f9011f274521c729f1afd9f7c984dad9c
 
 # Kernel Module Compile Results
 *.mod*
@@ -51,4 +58,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
 
+=======
+>>>>>>> e5b3964f9011f274521c729f1afd9f7c984dad9c
